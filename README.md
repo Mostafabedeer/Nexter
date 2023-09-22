@@ -1,5 +1,5 @@
 
-# Trillo
+# Nexter
 
 This website serves as a comprehensive demonstration and practice platform for mastering the art of Advanced CSS Grid layouts. From the <body> HTML element onwards, every aspect of the layout has been meticulously crafted using CSS Grid, allowing you to recap and strengthen your knowledge in this powerful layout system.
 
