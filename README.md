@@ -12,7 +12,9 @@ This website serves as a comprehensive demonstration and practice platform for m
 - 7-1 SCSS Architecture
 - BEM methodology for Classes
 
+## Demo
 
+https://nexter-mostafa-beder.netlify.app/
 
 ## Run Locally
 
@@ -48,12 +50,6 @@ To deploy this project run
 ```bash
   npm run build:css
 ```
-
-
-## Demo
-
-
-
 
 ## Contributing
 
